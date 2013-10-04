@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>551F1AFD-CE1C-454A-B95E-DCAEC7F3951F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Emerald</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0F7ECB37-A209-4FD5-B2C4-FA3B2B5E385F</key>
+		<string>https://bitbucket.org/tomosan/matikon-iphone-app</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tomosan-matikon-9d0811b42d9c/Emerald.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0F7ECB37-A209-4FD5-B2C4-FA3B2B5E385F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/tomosan/matikon-iphone-app</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0F7ECB37-A209-4FD5-B2C4-FA3B2B5E385F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0F7ECB37-A209-4FD5-B2C4-FA3B2B5E385F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>matikon-iphone-app</string>
+		</dict>
+	</array>
+</dict>
+</plist>
